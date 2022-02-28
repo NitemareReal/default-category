@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: default-category\n"
+"POT-Creation-Date: 2022-02-28 10:44+0100\n"
+"PO-Revision-Date: 2022-02-28 10:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: José María Ferri Azorín\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: settings.php:10
+msgid "Default Category Plugin"
+msgstr "Plugin Categoría por Defecto"
+
+#: settings.php:11
+msgid "Default Category"
+msgstr "Categoría por Defecto"
+
+#: settings.php:32
+msgid "Default Category Options"
+msgstr "Opciones Categoría por Defecto"
+
+#: settings.php:45
+msgid "Activate this setting to display the header."
+msgstr "Activa esta configuración para mostrar el encabezado."
+
+#: settings.php:81
+msgid ""
+"Select the default category for new posts. Multiple categories can be "
+"selected."
+msgstr ""
+"Seleccione la categoría por defecto para nuevas entradas. Se pueden "
+"seleccionar varias categorías."
+
+#: user-profile.php:16
+#, php-format
+msgid "Default Category For New Posts of %s"
+msgstr "Categoría por defecto para nuevas entradas de %s"
+
+#: user-profile.php:23
+msgid "Categories"
+msgstr ""
