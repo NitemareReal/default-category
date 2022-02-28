@@ -54,6 +54,9 @@ It's designed for the default post type. Maybe in the future.
 2. User profile settings.
 
 == Changelog ==
+= 2.1 =
+* Added translation system
+* User name (or login, if username is missing) is shown in Default Category Section in User Profile
 
 = 2.0 =
 * Added user-level category support
